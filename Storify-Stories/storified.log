@@ -1,0 +1,38 @@
+2017-12-18 15:13:49,276 INFO starting to archive stories for AMIArchivists to AMIArchivists
+2017-12-18 15:13:49,495 INFO downloading story amia-2017 to AMIArchivists/amia-2017
+2017-12-18 15:13:51,921 INFO fetching images for AMIArchivists/amia-2017
+2017-12-18 15:13:51,922 INFO rewriting html AMIArchivists/amia-2017
+2017-12-18 15:13:51,922 INFO finished archiving amia-2017
+2017-12-18 15:13:51,922 INFO downloading story association-of-moving-image-archivists-2017-confer-5a26d3d6435b4f14b65ba27b to AMIArchivists/association-of-moving-image-archivists-2017-confer-5a26d3d6435b4f14b65ba27b
+2017-12-18 15:14:00,056 INFO fetching images for AMIArchivists/association-of-moving-image-archivists-2017-confer-5a26d3d6435b4f14b65ba27b
+2017-12-18 15:14:00,057 INFO rewriting html AMIArchivists/association-of-moving-image-archivists-2017-confer-5a26d3d6435b4f14b65ba27b
+2017-12-18 15:14:00,057 INFO finished archiving association-of-moving-image-archivists-2017-confer-5a26d3d6435b4f14b65ba27b
+2017-12-18 15:14:00,058 INFO downloading story association-of-moving-image-archivists-2017-confer to AMIArchivists/association-of-moving-image-archivists-2017-confer
+2017-12-18 15:14:07,501 INFO fetching images for AMIArchivists/association-of-moving-image-archivists-2017-confer
+2017-12-18 15:14:07,502 INFO rewriting html AMIArchivists/association-of-moving-image-archivists-2017-confer
+2017-12-18 15:14:07,502 INFO finished archiving association-of-moving-image-archivists-2017-confer
+2017-12-18 15:14:07,502 INFO downloading story amia16-fth to AMIArchivists/amia16-fth
+2017-12-18 15:14:08,462 INFO fetching images for AMIArchivists/amia16-fth
+2017-12-18 15:14:08,463 INFO rewriting html AMIArchivists/amia16-fth
+2017-12-18 15:14:08,463 INFO finished archiving amia16-fth
+2017-12-18 15:14:08,463 INFO downloading story amia16-amiadigipres to AMIArchivists/amia16-amiadigipres
+2017-12-18 15:14:13,155 INFO fetching images for AMIArchivists/amia16-amiadigipres
+2017-12-18 15:14:13,156 INFO rewriting html AMIArchivists/amia16-amiadigipres
+2017-12-18 15:14:13,156 INFO finished archiving amia16-amiadigipres
+2017-12-18 15:14:13,156 INFO downloading story amia16-amiawomen to AMIArchivists/amia16-amiawomen
+2017-12-18 15:14:17,300 INFO fetching images for AMIArchivists/amia16-amiawomen
+2017-12-18 15:14:17,300 INFO rewriting html AMIArchivists/amia16-amiawomen
+2017-12-18 15:14:17,300 INFO finished archiving amia16-amiawomen
+2017-12-18 15:14:17,301 INFO downloading story amia16-november-9-10 to AMIArchivists/amia16-november-9-10
+2017-12-18 15:14:36,357 INFO fetching images for AMIArchivists/amia16-november-9-10
+2017-12-18 15:14:36,358 INFO rewriting html AMIArchivists/amia16-november-9-10
+2017-12-18 15:14:36,358 INFO finished archiving amia16-november-9-10
+2017-12-18 15:14:36,358 INFO downloading story amia16-582f3f576637f6073aa20e0a to AMIArchivists/amia16-582f3f576637f6073aa20e0a
+2017-12-18 15:14:58,480 INFO fetching images for AMIArchivists/amia16-582f3f576637f6073aa20e0a
+2017-12-18 15:14:58,480 INFO rewriting html AMIArchivists/amia16-582f3f576637f6073aa20e0a
+2017-12-18 15:14:58,481 INFO finished archiving amia16-582f3f576637f6073aa20e0a
+2017-12-18 15:14:58,481 INFO downloading story amia16-p2 to AMIArchivists/amia16-p2
+2017-12-18 15:15:10,322 INFO fetching images for AMIArchivists/amia16-p2
+2017-12-18 15:15:10,323 INFO rewriting html AMIArchivists/amia16-p2
+2017-12-18 15:15:10,323 INFO finished archiving amia16-p2
+2017-12-18 15:15:10,463 INFO finished archiving account AMIArchivists
